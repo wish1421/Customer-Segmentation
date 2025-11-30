@@ -54,6 +54,3 @@ To transform raw transaction data into actionable insights by:
 - **Choropleth Map** to identify regions with low-recency customers
 - **KPIs** showing segment-wise performance trends
 
----
-
-## 📁 Repository Structure
